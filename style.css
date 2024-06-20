@@ -1,0 +1,52 @@
+body {
+    font-size: 15pt;
+    background-color: greenyellow;
+    text-align: center;
+}
+
+
+select {
+display: flex;
+justify-content:center;
+text-align: center;
+position: relative;
+min-width: 0px;
+height: 30px;
+border-radius: 20px;
+border: 1px solid black;
+}
+
+.new{
+  justify-content: center;
+}
+
+textarea{
+  height: 90px;
+  width: 300px;
+}
+
+#textt{
+  height: 27px;
+  width: 250px;
+}
+
+button{
+   color: orange;
+   background-color: darkcyan;
+   height: 30px;
+   width: 100px;
+   border-radius: 20px;
+}
+
+.whole{
+  background-color: lightyellow;
+  height: 400px;
+  width: 320px;
+  text-align: center;
+  align-items: center;
+  display: flex;
+  justify-items: center;
+  align-self: center;
+  border: 2px solid red;
+  padding: 5%;
+}
